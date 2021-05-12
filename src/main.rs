@@ -1,6 +1,8 @@
 // commands
 mod commands;
 
+pub mod model;
+
 use serenity::{
     async_trait,
     client::bridge::gateway::ShardManager,
