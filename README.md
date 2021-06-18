@@ -1,5 +1,5 @@
 # nirust
-A complete rebuild of the [Nirubot](https://github.com/Nirusu99/nirubot) in Rust.
+A complete (incomplete) rebuild of the [Nirubot](https://github.com/Nirusu99/nirubot) in Rust.
 
 ## building
 - run `cargo build --release`
